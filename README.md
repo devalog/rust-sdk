@@ -23,7 +23,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-devintest_api = "0.0.1"
+devintest_api = "0.0.2"
 ```
 
 Or install via cargo:
